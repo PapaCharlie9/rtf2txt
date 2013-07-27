@@ -1,0 +1,27 @@
+#
+[bB]in/
+[oO]bj/
+[dD]ebug/
+[rR]elease/
+
+# Visual Studio
+*.suo
+*.sdf
+*.user
+*.opensdf
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
